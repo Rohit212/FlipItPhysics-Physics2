@@ -99,11 +99,11 @@ massOfWater = 0.47637876579
 """
 
 if __name__ == '__main__':
-    massOfCu = 8.5
+    massOfCu = 7.9
     specificHeatOfCu = 386
     initialTempOfCu = 750
 
-    massOfWater = 5.1
+    massOfWater = 5.9
     specificHeatOfWater = 4186
     initialTempOfWater = 293
 
